@@ -46,11 +46,6 @@ a:hover {
     color: #333
 }
 
-a,
-body {
-    color: #333
-}
-
 body,
 h1,
 h2,
@@ -85,6 +80,7 @@ body {
     background-position: center 300px;
     font-family: Karla, sans-serif;
     font-size: 13px;
+      color: #333;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
     -ms-font-smoothing: antialiased;
@@ -114,9 +110,6 @@ p {
 }
 img {
     height: auto;
-    max-width: 100%
-}
-img {
     max-width: 100%;
     vertical-align: middle;
     display: inline-block;
